@@ -55,6 +55,6 @@ Finally, all findings were documented, including detailed descriptions of vulner
 https://github.com/vaibhavv2004/ParkSmart-RL/blob/main/PROJECT%20REPORT.docx
 
 **Ref 4: Coding part**
-https://github.com/vaibhavv2004/ParkSmart-RL/blob/main/RL_ParkSmart.py
+(https://github.com/vaibhavv2004/Adaptive-RAG-for-Medical-Knowledge-Retrieval/blob/main/mini-project-final.ipynb)
 
 
