@@ -39,22 +39,10 @@ To develop an Adaptive Retrieval-Augmented Generation (RAG) system for medical k
 
 ### Demo Screenshots  
 
-**Ref 1: Parking Environment & Trained Agent in Action**  
-(https://github.com/vaibhavv2004/ParkSmart-RL/blob/main/Screenshot%202025-10-13%20115026.png)
-*Agent autonomously selects high-reward (green) slots*
+**Ref 1: Final Project Report**
+(https://github.com/vaibhavv2004/Adaptive-RAG-for-Medical-Knowledge-Retrieval/blob/main/Mini_Project%20-%20Final%20Report.docx)
 
-
-**Ref 2: Interactive Controls & Info Panel**  
-(https://github.com/vaibhavv2004/ParkSmart-RL/blob/main/Screenshot%202025-10-13%20115654.png)
-*Episode count, last reward, and selected slot details*
-
-Reporting
-Finally, all findings were documented, including detailed descriptions of vulnerabilities, exploits, and remediation recommendations.
-
-**Ref 3: Final Project Report**
-https://github.com/vaibhavv2004/ParkSmart-RL/blob/main/PROJECT%20REPORT.docx
-
-**Ref 4: Coding part**
+**Ref 2: Coding part**
 (https://github.com/vaibhavv2004/Adaptive-RAG-for-Medical-Knowledge-Retrieval/blob/main/mini-project-final.ipynb)
 
 
