@@ -24,7 +24,10 @@ To develop an Adaptive Retrieval-Augmented Generation (RAG) system for medical k
 - **PyTorch** – Deep learning framework for model execution
 - **LLMs** – Context-aware medical response generation
 - **Pandas & NumPy** – Data preprocessing and handling
-- **Medical Datasets / PubMed** – Healthcare knowledge source 
+- **Medical Datasets / PubMed** – Healthcare knowledge source
+
+### Dataset used : MedQA-USMLE 
+MedQA-USMLE contains ~12,723 real US medical board exam questions, paired with 10 comprehensive English medical textbooks from Jin et al. (2020),and it is available on Kaggle.
 
 ### Key Features  
 - Adaptive medical knowledge retrieval using Retrieval-Augmented Generation (RAG)
@@ -36,6 +39,16 @@ To develop an Adaptive Retrieval-Augmented Generation (RAG) system for medical k
 - Support for medical query answering using domain-specific healthcare datasets
 - Efficient retrieval and response generation pipeline using LangChain and vector databases
 - Context-aware response generation with improved reliability for medical information retrieval
+
+### Sample Input and Output:
+- Input Query : 
+what is the normal level of blood sugar level
+- Output:
+Complexity : Medium
+Knowledge gap status : No gap
+Chunks used : 3
+Confidence score : 0.59
+Normal blood sugar level is 80-120mg/dL
 
 ### Demo Screenshots  
 
