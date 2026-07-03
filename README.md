@@ -44,10 +44,10 @@ MedQA-USMLE contains ~12,723 real US medical board exam questions, paired with
 - Input Query : 
 what is the normal level of blood sugar level
 - Output:
-Complexity : Medium
-Knowledge gap status : No gap
-Chunks used : 3
-Confidence score : 0.59
+Complexity : Medium,
+Knowledge gap status : No gap,
+Chunks used : 3,
+Confidence score : 0.59,
 Normal blood sugar level is 80-120mg/dL
 
 ### Demo Screenshots  
